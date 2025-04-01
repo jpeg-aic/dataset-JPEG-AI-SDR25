@@ -100,8 +100,7 @@ Demographic data for participants in the PTC experiment. Format is the same as t
 
 | Column Name     | Type      | Description                                                    |
 |-----------------|-----------|----------------------------------------------------------------|
-| `toggle_count`  | Numeric   | Number of toggles performed by the participant.                |
-
+| `country`       | String    | Country of residency provided by the participant.              |
 ---
 
 ## Usage Notes
