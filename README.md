@@ -106,8 +106,6 @@ Demographic data for participants in the PTC experiment. Format is the same as t
 
 - Use appropriate data parsers to correctly interpret `categorical`, `logical`, and `datetime` columns.
 - `submission_time` is provided in ISO 8601 format.
-- Data can be analyzed using MATLAB, Python (pandas), R, or other analysis tools.
-- Ensure screen resolution and toggle count data are considered in user filtering or weighting schemes.
 
 ## Contact
 First author:mohsen.jenadeleh@uni-konstanz.de
