@@ -10,8 +10,7 @@
 This dataset contains subjective quality assessment data collected for the JPEG AIC-3 activities. The study is based on *boosted triplet comparisons* (BTC) and *perceptual toggle comparisons* (PTC), and was conducted on Amazon Mechanical Turk (MTurk) from January 4 to January 10, 2024.
 
 For detailed information about the **BTC method**, see the methodology presented in:  
-Testolina, Michela, Mohsen Jenadeleh, Shima Mohammadi, Shaolin Su, Joao Ascenso, Touradj Ebrahimi, Jon Sneyers, and Dietmar Saupe.  
-*"Fine-grained subjective visual quality assessment for high-fidelity compressed images."*  
+Testolina, Michela, Mohsen Jenadeleh, Shima Mohammadi, Shaolin Su, Joao Ascenso, Touradj Ebrahimi, Jon Sneyers, and Dietmar Saupe. "Fine-grained subjective visual quality assessment for high-fidelity compressed images."  
 arXiv: [2410.09501](https://arxiv.org/pdf/2410.09501)
 
 ---
@@ -112,7 +111,6 @@ Demographic data for participants in the PTC experiment. Format is the same as t
 
 ## Contact
 First author:mohsen.jenadeleh@uni-konstanz.de
-
 
 JPEG-AIC chairs:
 
