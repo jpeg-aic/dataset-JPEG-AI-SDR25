@@ -15,7 +15,7 @@ arXiv: [2410.09501](https://arxiv.org/pdf/2410.09501)
 
 ---
 
-## Included Files
+## Subjective Data Included Files
 
 - `JPEG_AIC_SDR_BTC_JPEG_AI_responses_2025.02.28_v1.csv`
 - `JPEG_AIC_SDR_BTC_JPEG_AI_user_data_2025.02.28_v1.csv`
