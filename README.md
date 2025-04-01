@@ -113,7 +113,7 @@ Demographic data for participants in the PTC experiment. Format is the same as t
 ## Contact
 First author:mohsen.jenadeleh@uni-konstanz.de
 
-or
+
 JPEG-AIC chairs:
 
 Dietmar Saupe: dietmar.saupe@uni-konstanz.de
