@@ -3,7 +3,7 @@
 **Repository:** `dataset-JPEG-AI-SDR`
 
 **Download the dataset:**  
-[Google Drive – JPEG-AI-SDR25 Dataset](https://drive.google.com/file/d/19P_avUx-wVPyqTS2efFgVc0tbWQ7viVO/view?usp=sharing)
+[JPEG-AIC-4-Example-Dataset](https://plenodb.jpeg.org/aic4/JPEG-AIC-4-example-dataset.zip)
 
 ## Overview
 
