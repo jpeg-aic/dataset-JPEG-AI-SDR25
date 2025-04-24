@@ -9,7 +9,7 @@
 
 This dataset contains subjective quality assessment data collected for the JPEG AIC-3 activities. The study is based on *boosted triplet comparisons* (BTC) and *Plain triplet comparisons* (PTC), and was conducted on Amazon Mechanical Turk (MTurk) from January 4 to January 10, 2024.
 
-For detailed information about the study and the method used to reconstruct the JND scores, see the methodology presented in:
+For detailed information about the study and the method used to reconstruct the JND scores, see the methodology presented in the following paper that is submitted to QoMEX 2025:
 
 Jenadeleh, Mohsen, Jon Sneyers, Panqi Jia, Shima Mohammadi, Joao Ascenso, and Dietmar Saupe. "Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression." arXiv preprint arXiv:2504.06301 (2025), https://doi.org/10.48550/arXiv.2504.06301.
 
