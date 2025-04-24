@@ -112,7 +112,7 @@ Demographic data for participants in the PTC experiment. Format is the same as t
 - Ensure screen resolution and toggle count data are considered in user filtering or weighting schemes.
 
 ## Contact
-mohsen.jenadeleh@uni-konstanz.de
+Mohsen Jenadeleh: mohsen.jenadeleh@uni-konstanz.de
 
 Dietmar Saupe: dietmar.saupe@uni-konstanz.de
 
