@@ -3,19 +3,20 @@
 **Repository:** `dataset-JPEG-AI-SDR`
 
 **Download the dataset:**  
-[JPEG-AIC-4-Example-Dataset](https://plenodb.jpeg.org/aic4/JPEG-AIC-4-example-dataset.zip)
+[Google Drive – JPEG-AI-SDR25 Dataset](https://drive.google.com/file/d/19P_avUx-wVPyqTS2efFgVc0tbWQ7viVO/view?usp=sharing)
 
 ## Overview
 
 This dataset contains subjective quality assessment data collected for the JPEG AIC-3 activities. The study is based on *boosted triplet comparisons* (BTC) and *perceptual toggle comparisons* (PTC), and was conducted on Amazon Mechanical Turk (MTurk) from January 4 to January 10, 2024.
 
 For detailed information about the **BTC method**, see the methodology presented in:  
-Testolina, Michela, Mohsen Jenadeleh, Shima Mohammadi, Shaolin Su, Joao Ascenso, Touradj Ebrahimi, Jon Sneyers, and Dietmar Saupe. "Fine-grained subjective visual quality assessment for high-fidelity compressed images."  
+Testolina, Michela, Mohsen Jenadeleh, Shima Mohammadi, Shaolin Su, Joao Ascenso, Touradj Ebrahimi, Jon Sneyers, and Dietmar Saupe.  
+*"Fine-grained subjective visual quality assessment for high-fidelity compressed images."*  
 arXiv: [2410.09501](https://arxiv.org/pdf/2410.09501)
 
 ---
 
-## Subjective Data Included Files
+## Included Files
 
 - `JPEG_AIC_SDR_BTC_JPEG_AI_responses_2025.02.28_v1.csv`
 - `JPEG_AIC_SDR_BTC_JPEG_AI_user_data_2025.02.28_v1.csv`
@@ -99,19 +100,17 @@ Demographic data for participants in the PTC experiment. Format is the same as t
 
 | Column Name     | Type      | Description                                                    |
 |-----------------|-----------|----------------------------------------------------------------|
-| `country`       | String    | Country of residency provided by the participant.              |
+| `toggle_count`  | Numeric   | Number of toggles performed by the participant.                |
+
 ---
 
 ## Usage Notes
 
 - Use appropriate data parsers to correctly interpret `categorical`, `logical`, and `datetime` columns.
 - `submission_time` is provided in ISO 8601 format.
+- Data can be analyzed using MATLAB, Python (pandas), R, or other analysis tools.
+- Ensure screen resolution and toggle count data are considered in user filtering or weighting schemes.
 
 ## Contact
-First author:mohsen.jenadeleh@uni-konstanz.de
-
-JPEG-AIC chairs:
-
-Dietmar Saupe: dietmar.saupe@uni-konstanz.de
-
-Jon Sneyers: jon@cloudinary.com
+mohsen.jenadeleh@uni-konstanz.de
+ 
