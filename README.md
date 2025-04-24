@@ -113,4 +113,9 @@ Demographic data for participants in the PTC experiment. Format is the same as t
 
 ## Contact
 mohsen.jenadeleh@uni-konstanz.de
+
+Dietmar Saupe: dietmar.saupe@uni-konstanz.de
+
+Jon Sneyers: jon@cloudinary.com
+
  
