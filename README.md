@@ -102,6 +102,9 @@ Demographic data for participants in the PTC experiment. Format is the same as t
 | `toggle_count`  | Numeric   | Number of toggles performed by the participant.                |
 
 ---
+## License
+
+The data are licensed under a Creative Commons CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 ## Usage Notes
 
@@ -110,8 +113,13 @@ Demographic data for participants in the PTC experiment. Format is the same as t
 - Data can be analyzed using MATLAB, Python (pandas), R, or other analysis tools.
 - Ensure screen resolution and toggle count data are considered in user filtering or weighting schemes.
 
-## License
-The data are licensed under a Creative Commons CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/).
+-In no event shall the University of Konstanz be liable to any party for direct, indirect, special, incidental, or consequential damages arising out of the use of the data and its documentation. The University of Konstanz specifically disclaims any warranties. The data provided hereunder is on an “as is” basis, and the University of Konstanz has no obligation to provide maintenance, support, updates, enhancements, or modifications.
+
+-If you wish to use any of the provided material in your research, we kindly ask you to cite the follwoing papers:
+*** M. Jenadeleh, J. Sneyers, P. Jia, S. Mohammadi, J. Ascenso, and D. Saupe, “Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression,” 17th Inter- national Conference on Quality of Multimedia Experience (QoMEX), pp. 1–7, 2025. doi: 10.1109/QoMEX65720.2025.11219943
+
+ *** M. Testolina, M. Jenadeleh, S. Mohammadi, S. Su, J. Ascenso, T. Ebrahimi, J. Sneyers, and D. Saupe, “Fine-Grained Subjective Visual Quality Assessment for High-Fidelity Compressed Images,” Data Compression Conference (DCC), pp. 123–132, 2025. doi: 10.1109/DCC62719.2025.00020.
+
 
 ## Contact
 Mohsen Jenadeleh: mohsen.jenadeleh@uni-konstanz.de
@@ -120,4 +128,9 @@ Dietmar Saupe: dietmar.saupe@uni-konstanz.de
 
 Jon Sneyers: jon@cloudinary.com
 
+ ## References
+
+
+ [3] 
  
+
