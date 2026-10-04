@@ -110,18 +110,18 @@ The data are licensed under a Creative Commons CC0 (https://creativecommons.org/
 
 - Use appropriate data parsers to correctly interpret `categorical`, `logical`, and `datetime` columns.
 - The `submission_time` field is provided in **ISO 8601** format.
-- The data can be analyzed using **MATLAB**, **Python** (e.g., `pandas`), **R**, or other suitable data analysis tools.
-- When filtering participants or applying weighting schemes, consider relevant metadata such as **screen resolution** and **toggle count**.
+- The data can be analyzed using MATLAB, Python (e.g., `pandas`), R, or other suitable data analysis tools.
+- When filtering participants or applying weighting schemes, consider relevant metadata such as screen resolution and toggle count.
 - The data and accompanying documentation are provided on an **"as is"** basis. In no event shall the University of Konstanz be liable to any party for direct, indirect, special, incidental, or consequential damages arising from the use of the data or its documentation. The University of Konstanz specifically disclaims any warranties and has no obligation to provide maintenance, support, updates, enhancements, or modifications.
 
 ## Citation
 
 If you use this dataset or any of the provided materials in your research, please cite the following publications:
 
-1. M. Jenadeleh, J. Sneyers, P. Jia, S. Mohammadi, J. Ascenso, and D. Saupe, **"Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression,"** *17th International Conference on Quality of Multimedia Experience (QoMEX)*, pp. 1–7, 2025.  
+1. M. Jenadeleh, J. Sneyers, P. Jia, S. Mohammadi, J. Ascenso, and D. Saupe, "Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression," *17th International Conference on Quality of Multimedia Experience (QoMEX)*, pp. 1–7, 2025.  
    DOI: [10.1109/QoMEX65720.2025.11219943](https://doi.org/10.1109/QoMEX65720.2025.11219943)
 
-2. M. Testolina, M. Jenadeleh, S. Mohammadi, S. Su, J. Ascenso, T. Ebrahimi, J. Sneyers, and D. Saupe, **"Fine-Grained Subjective Visual Quality Assessment for High-Fidelity Compressed Images,"** *Data Compression Conference (DCC)*, pp. 123–132, 2025.  
+2. M. Testolina, M. Jenadeleh, S. Mohammadi, S. Su, J. Ascenso, T. Ebrahimi, J. Sneyers, and D. Saupe, "Fine-Grained Subjective Visual Quality Assessment for High-Fidelity Compressed Images", *Data Compression Conference (DCC)*, pp. 123–132, 2025.  
    DOI: [10.1109/DCC62719.2025.00020](https://doi.org/10.1109/DCC62719.2025.00020)
 
 
