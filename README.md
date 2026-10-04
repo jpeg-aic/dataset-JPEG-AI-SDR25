@@ -110,6 +110,9 @@ Demographic data for participants in the PTC experiment. Format is the same as t
 - Data can be analyzed using MATLAB, Python (pandas), R, or other analysis tools.
 - Ensure screen resolution and toggle count data are considered in user filtering or weighting schemes.
 
+## License
+The data are licensed under a Creative Commons CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/).
+
 ## Contact
 Mohsen Jenadeleh: mohsen.jenadeleh@uni-konstanz.de
 
